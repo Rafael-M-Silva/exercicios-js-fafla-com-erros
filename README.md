@@ -1,4 +1,4 @@
-# 🛠️ Exercícios JS – FAF L.A. com Erros
+# 🛠️ Exercícios JS – FA FLA. com Erros
 
 Projeto com exercícios de JavaScript contendo **erros intencionais**, desenvolvido para fins didáticos. O objetivo é ajudar alunos a identificar, entender e corrigir erros comuns em lógica de programação, sintaxe e estrutura de código.
 
